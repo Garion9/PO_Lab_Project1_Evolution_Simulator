@@ -1,0 +1,10 @@
+{
+  "worldMapHeight": 20,
+  "worldMapWidth": 20,
+  "jungleToWorldRatio": 0.5,
+  "animalStartingEnergy": 20,
+  "animalMoveEnergyCost": 1,
+  "plantEnergyBenefit": 5,
+  "startingAnimalsCount": 10,
+  "startingPlantsCount": 20
+}
